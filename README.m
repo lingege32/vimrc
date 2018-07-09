@@ -1,0 +1,3 @@
+environment
+
+.vimrc & .cshrc
